@@ -5,7 +5,7 @@ A simple Linear Regression task to predict the percentage of marks that a studen
 
 # Task 2  
 ### Prediction Using Unsupervised Machine Learning
-From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
+From the given 'Iris' dataset, predict the optimum number of clusters using K-Means algorithm and represent it visually.
 
 
 # Task 3 
