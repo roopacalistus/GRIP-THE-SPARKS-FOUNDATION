@@ -1,8 +1,12 @@
 
-# Task 1
+# Task 1 
+### Simple Linear Regression
 A simple Linear Regression task to predict the percentage of marks that a student is expected to score based on the number of hours they studied.
 
-# Task 2
+# Task 2  
+### Prediction Using Unsupervised Machine Learning
+From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
+
 
 # Task 3 
 ### Exploratory Data Analysis - Retail.
