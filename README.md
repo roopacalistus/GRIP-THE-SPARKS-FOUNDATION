@@ -17,3 +17,9 @@ Find out the weak areas in a business, where you can work to make more profit. F
 ### Exploratory Data Analysis - Sports 
 Exploratory Data analysis on the Indian Premier League dataset.
 As a Sports analyst find out the most successful teams, players and factors contributing to win or loss.
+
+
+# Task 6
+### Prediction using Decision Tree Algorithm
+Create the Decision Tree Classifier and visualize it graphically. If any new data is fed to this classifier, it should predict the right class.
+
