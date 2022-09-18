@@ -15,4 +15,5 @@ Find out the weak areas in a business, where you can work to make more profit. F
 
 # Task 5
 ### Exploratory Data Analysis - Sports 
-As a Sports analyst find out the most successful teams, players and factors contributing to win or loss
+Exploratory Data analysis on the Indian Premier League dataset.
+As a Sports analyst find out the most successful teams, players and factors contributing to win or loss.
